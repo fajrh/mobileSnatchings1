@@ -95,6 +95,7 @@
 
    </head>
    <body>
+      test
       <form action="/addthepin" method="GET">
          <table>
             <tr>
